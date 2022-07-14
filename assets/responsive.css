@@ -1,0 +1,9 @@
+@media (max-width: 630px){
+    .img-login{
+        display: none;
+    }
+
+    .form-login{
+        width: 100%;
+    }
+}
